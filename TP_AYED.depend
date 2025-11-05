@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1762195339 source:e:\0 - sistemas\algortimos y estructura de datos\parciales y tp\trabajo practico\tp_ayed_mercado_rodrigo\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"cola.h"
+
+1762008502 e:\0 - sistemas\algortimos y estructura de datos\parciales y tp\trabajo practico\tp_ayed_mercado_rodrigo\nodo.h
+
+1762193907 e:\0 - sistemas\algortimos y estructura de datos\parciales y tp\trabajo practico\tp_ayed_mercado_rodrigo\cola.h
+	"nodo.h"
+
+1762195894 source:e:\0 - sistemas\algortimos y estructura de datos\parciales y tp\trabajo practico\tp_ayed_mercado_rodrigo\libro.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"libro.h"
+
+1762196474 e:\0 - sistemas\algortimos y estructura de datos\parciales y tp\trabajo practico\tp_ayed_mercado_rodrigo\lista.h
+	"nodo.h"
+
+1762193768 e:\0 - sistemas\algortimos y estructura de datos\parciales y tp\trabajo practico\tp_ayed_mercado_rodrigo\libro.h
+
+1762196470 source:e:\0 - sistemas\algortimos y estructura de datos\parciales y tp\trabajo practico\tp_ayed_mercado_rodrigo\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"nodo.h"
+
+1762196148 source:e:\0 - sistemas\algortimos y estructura de datos\parciales y tp\trabajo practico\tp_ayed_mercado_rodrigo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"nodo.h"
+	"libro.h"
+	"pila.h"
+	"cola.h"
+	"usuario.h"
+
+1762193896 e:\0 - sistemas\algortimos y estructura de datos\parciales y tp\trabajo practico\tp_ayed_mercado_rodrigo\pila.h
+	"nodo.h"
+
+1762193625 e:\0 - sistemas\algortimos y estructura de datos\parciales y tp\trabajo practico\tp_ayed_mercado_rodrigo\usuario.h
+
+1762008524 source:e:\0 - sistemas\algortimos y estructura de datos\parciales y tp\trabajo practico\tp_ayed_mercado_rodrigo\nodo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"nodo.h"
+
+1762195324 source:e:\0 - sistemas\algortimos y estructura de datos\parciales y tp\trabajo practico\tp_ayed_mercado_rodrigo\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"nodo.h"
+	"pila.h"
+
+1762193619 source:e:\0 - sistemas\algortimos y estructura de datos\parciales y tp\trabajo practico\tp_ayed_mercado_rodrigo\usuario.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"nodo.h"
+	"usuario.h"
+
